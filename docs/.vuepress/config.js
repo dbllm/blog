@@ -1,6 +1,7 @@
 module.exports = {
     title: 'xx Blog!',
     description: 'desc...',
+    base: '/blog/',
     themeConfig: {
         sidebar: {
             '/': [
